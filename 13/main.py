@@ -1,4 +1,4 @@
-def volume(v1,h1,h2):
+def weight(d1,m1,d2):
     """
     docstring располагается здесь 
     """
