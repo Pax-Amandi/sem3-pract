@@ -1,4 +1,4 @@
-def volume(v1,h1,h2):
+def cone(h,d):
     """
     docstring располагается здесь 
     """
