@@ -1,4 +1,4 @@
-def volume(v1,h1,h2):
+def volume(h,l):
     """
     docstring располагается здесь 
     """
