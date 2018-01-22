@@ -1,4 +1,4 @@
-def volume(v1,h1,h2):
+def square(a,b,h):
     """
     docstring располагается здесь 
     """
