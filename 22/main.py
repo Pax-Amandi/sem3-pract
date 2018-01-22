@@ -1,4 +1,4 @@
-def volume(v1,h1,h2):
+def combination(inp_set, n, k):
     """
     docstring располагается здесь 
     """
