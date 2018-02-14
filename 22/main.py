@@ -1,8 +1,20 @@
+#!/usr/bin/env python
+
+__author__ = ""
+__copyright__ = ""
+__email__ = ""
+
+
+
 def combination(inp_set, n, k):
     """
+    
     docstring располагается здесь 
+    
     """
-    pass  # ваш код располагается здесь
+    
+    # ваш код располагается ниже этой строки 
+    pass  # pass можно удалить
     # return
 
 
