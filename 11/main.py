@@ -15,6 +15,7 @@ def height(a,b,s):
     
     # ваш код располагается ниже этой строки 
     pass  # pass можно удалить
+    # return
 
 
 if __name__ == '__main__':
